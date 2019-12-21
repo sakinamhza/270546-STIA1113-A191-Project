@@ -200,3 +200,7 @@ if (choice[i] == 4)
 
 	Display "Total Charge : RM" + sum
 	Display "Thank you ^-^"
+
+#FLOWCHART
+
+![project programming flowchart](https://user-images.githubusercontent.com/55503590/71310511-e454cb00-244f-11ea-8bfe-a5ecfd5288da.png)
