@@ -170,11 +170,17 @@ if (town == 'a')
 		Display town, weight, charge
 
 if(choice[i]==3)
+
 Display Menu
+
 Display "Please enter type of package"
+
 type=sc.nextInt()
+
 Display "Please enter weight in gram" 
-weight=sc.nextDouble	
+
+weight=sc.nextDouble
+
 	if (type == 1) 
         	if (weight == 500) 
                 charge = 7.31
@@ -196,8 +202,11 @@ weight=sc.nextDouble
 	Display type, weight, charge 
 
 if (choice[i] == 4) 
+
 	Display Menu 
+	
 	Display "Please enter type of document"
+	
 	Display "Please enter weight in gram"
 
 	if (type == 1 && weight == 100)
