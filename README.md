@@ -17,19 +17,33 @@ In this project we must create a coding about Pos Laju Ekspress. In our coding w
 # PSEUDOCODE
 
 Start 
+
 Declare 
+
 int i=0,
+
 int c=0,
+
 double zone=0, weight = 0, type =0, domestic, surcharge, charge = 0, sum = 0
+
 char town
+
 Display "Welcome to Pos Laju"
+
 Display "how many time you want to use" 
+
 Input int size  
+
 int [] choice = new int [size]
+
 Display Menu  
+
 While (i < choice.length && choice[i] != -1)
+
 	Display "Please enter choice"
+	
 	Input choice[i]
+	
  	if (choice[i] < 1 && choice[i] > 4) 
 		Display "Invalid choice"
 	
