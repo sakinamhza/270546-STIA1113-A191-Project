@@ -1,5 +1,7 @@
 # 270546-STIA1113-A191-Project
 
+# STUDENTS INFO
+
 NAME : JULINEY A/P SEN  MATRIC NUMBER : 272828
 
 NAME : SHARIFAH NURSAKINA EMALIN BT SYED MAHAZA  MATRIC NUMBER : 270546
@@ -8,11 +10,11 @@ NAME : NUR HASLINDA BINTI ABDUL HASSAN  MATRIC NUMBER : 271551
 
 NAME : SITI NORSUHADA BINTI IBRAHIM  MATRIC NUMBER : 271395
 
-#INTRODUCTION
+# INTRODUCTION
 
 In this project we must create a coding about Pos Laju Ekspress. In our coding we also  use selection, looping, array. In this project there is 4 part which is Next day delivery , Same day delivery, Prepaid box and Envelope , Pos Ekspress.
 
-#PSEUDOCODE
+# PSEUDOCODE
 
 Start 
 Declare 
@@ -201,6 +203,33 @@ if (choice[i] == 4)
 	Display "Total Charge : RM" + sum
 	Display "Thank you ^-^"
 
-#FLOWCHART
+# FLOWCHART
 
 ![project programming flowchart](https://user-images.githubusercontent.com/55503590/71310511-e454cb00-244f-11ea-8bfe-a5ecfd5288da.png)
+
+# OUTPUT 1
+
+![1](https://user-images.githubusercontent.com/55503590/71310535-48778f00-2450-11ea-82e5-75bf4c9a1f6a.png)
+
+# OUTPUT 2
+
+![2](https://user-images.githubusercontent.com/55503590/71310552-85438600-2450-11ea-9301-34f0786f3229.png)
+
+# OUTPUT 3
+
+![3](https://user-images.githubusercontent.com/55503590/71310577-b0c67080-2450-11ea-9daa-9c1927572a7d.png)
+![4](https://user-images.githubusercontent.com/55503590/71310578-b15f0700-2450-11ea-9d4c-ee29ac0eaf3f.png)
+
+# OUTPUT 4
+
+![5](https://user-images.githubusercontent.com/55503590/71310595-df444b80-2450-11ea-838c-d98c50f88d74.png)
+![6](https://user-images.githubusercontent.com/55503590/71310596-df444b80-2450-11ea-8fb9-acbaa0a00c43.png)
+
+# OUTPUT 5
+
+![7](https://user-images.githubusercontent.com/55503590/71310609-faaf5680-2450-11ea-89ce-13b322d7fbd0.png)
+![8](https://user-images.githubusercontent.com/55503590/71310610-fb47ed00-2450-11ea-9206-0cfe2f63c77a.png)
+
+
+
+
