@@ -58,60 +58,60 @@ While (i < choice.length && choice[i] != -1)
 		weight = sc.nextInt()
 			if (weight <= 500 && weight <= 2000) 
 			charge = 4.90 
-			else if (weight > 500 && weight <= 			2000) 
+			else if (weight > 500 && weight <= 2000) 
 
-                	charge = 4.90 + 0.8 * ((weight - 500) 			/ 250)
-                	else if (weight > 2000 && weight <= 			2500) 
+                	charge = 4.90 + 0.8 * ((weight - 500) / 250)
+                	else if (weight > 2000 && weight <= 2500) 
                 	charge = 10.50
                 	else if (weight > 2500) 
-                	charge = 10.50 + 0.50 * ((weight -			2500)/ 500)
+                	charge = 10.50 + 0.50 * ((weight - 2500)/ 500)
 	
 	else if (zone == 2) 
 		Display "Please enter weight in gram"
 		weight = sc.nextInt()
 		if (weight <= 500 && weight <= 2000) 
 		charge = 5.40
-			else if (weight > 500 && weight <= 			2000)
-			charge = 5.40 + 1.00 * ((weight - 500) 			/ 250)
-			else if (weight > 2000 && weight <= 			2500) 
+			else if (weight > 500 && weight <= 2000)
+			charge = 5.40 + 1.00 * ((weight - 500) / 250)
+			else if (weight > 2000 && weight <= 2500) 
                         charge = 16.00
 			else if (weight > 2500) 
-                        charge = 16.00 + 2.00 * ((weight - 			2500) / 500)
+                        charge = 16.00 + 2.00 * ((weight - 2500) / 500)
 			
 	else if (zone == 3) 
 		Display "Please enter weight in gram"
 		weight = sc.nextInt()
 		if (weight <= 500 && weight <= 2000) 
                 charge = 6.90;
-                	else if (weight > 500 && weight <= 			2000) 
-                        charge = 6.90 + 1.50 * ((weight - 500) 			/ 250)
-                    	else if (weight > 2000 && weight <= 			2500)
+                	else if (weight > 500 && weight <= 2000) 
+                        charge = 6.90 + 1.50 * ((weight - 500) / 250)
+                    	else if (weight > 2000 && weight <= 2500)
                     	charge = 21.00
                     	else if (weight > 2500) 
-                        charge = 21.00 + 3.00 * ((weight - 			2500) / 500)
+                        charge = 21.00 + 3.00 * ((weight - 2500) / 500)
 	else if (zone == 4) 
                     Display"Please enter weight"
                     weight = sc.nextInt()
                     if (weight <= 500 && weight <= 2000) 
                     charge = 7.40
-                    	else if (weight > 500 && weight <= 			2000) 
-                        charge = 7.40 + 1.50 * ((weight - 500) 			/ 250)
-                    	else if (weight > 2000 && weight <= 			2500)
+                    	else if (weight > 500 && weight <= 2000) 
+                        charge = 7.40 + 1.50 * ((weight - 500) / 250)
+                    	else if (weight > 2000 && weight <= 2500)
                         charge = 26.00
                     	else if (weight > 2500) 
-                        charge = (26.00 + 3.50 * ((weight - 			2500) / 500))
+                        charge = (26.00 + 3.50 * ((weight - 2500) / 500))
 
 	else if (zone == 5)
                     Display"Please enter weight in gram"
                     weight = sc.nextInt()
                     if (weight <= 500 && weight <= 2000) 
                     charge = 7.90
-                    	else if (weight > 500 && weight <= 			2000)
-                        charge = 7.90 + 2.00 * ((weight - 500) 			/ 250)
-                    	else if (weight > 2000 && weight <= 			2500) 
+                    	else if (weight > 500 && weight <= 2000)
+                        charge = 7.90 + 2.00 * ((weight - 500) / 250)
+                    	else if (weight > 2000 && weight <= 2500) 
                         charge = 31.00
                     	else if (weight > 2500) 
-                        charge = 31.00 + 4.00 * ((weight - 			2500) / 500)
+                        charge = 31.00 + 4.00 * ((weight - 2500) / 500)
 	else
 		Display "Invalid zone"
 	Display"Zone, Weight(g), RM"
