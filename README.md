@@ -119,10 +119,17 @@ While (i < choice.length && choice[i] != -1)
 
 
 if(choice[i]==2)
+
 	Display "Enter a for local town"
-	Display "Enter b for cross town"			Display"Please enter your town"	
+	
+	Display "Enter b for cross town"
+	
+	Display"Please enter your town"	
+	
 	town = sc.next().charAt(0)
+	
 	Display "Please enter the weight in gram"
+	
 	weight = sc.nextDouble
 
 if (town == 'a')
